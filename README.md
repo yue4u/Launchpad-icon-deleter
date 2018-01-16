@@ -3,6 +3,8 @@
 @ NOT OFFICAL SUPPORT&nbsp;@  
 @@@@@@@@@@@@@@
 
+Chinese doc → https://minatsuki-yui.github.io/2018/01/17/LaunchpadIcon/
+
 <h2>What is this </h2>
 
 A shell script to delete macOs  Launchpad icons
