@@ -1,7 +1,7 @@
-@@@@@@@@@@@@@@@@@  
-@ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NOTE：&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; @  
-@&nbsp;NOT OFFICAL SUPPORT&nbsp;@  
-@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@
+@ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NOTE：&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;@  
+@&nbsp;NOT OFFICAL SUPPORT@  
+@@@@@@@@@@@@@@@
 
 Chinese doc → https://minatsuki-yui.github.io/2018/01/17/LaunchpadIcon/
 
