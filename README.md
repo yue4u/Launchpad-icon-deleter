@@ -1,13 +1,13 @@
-@@@@@@@@@@@@@@  
-@ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; NOTE: &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;@  
-@ NOT OFFICAL SUPPORT&nbsp;@  
-@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@  
+@ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NOTE：&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; @  
+@&nbsp;NOT OFFICAL SUPPORT&nbsp;@  
+@@@@@@@@@@@@@@@@@
 
 Chinese doc → https://minatsuki-yui.github.io/2018/01/17/LaunchpadIcon/
 
 <h2>What is this </h2>
 
-A shell script to delete macOs  Launchpad icons
+A shell script to delete macOS  Launchpad icons
 
 Inspired by https://www.jamf.com/jamf-nation/discussions/21946/removing-icons-from-launchpad-in-sierra
 
