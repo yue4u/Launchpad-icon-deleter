@@ -3,30 +3,30 @@
 @ NOT OFFICAL SUPPORT&nbsp;@  
 @@@@@@@@@@@@@@
 
-## What is this
+<h2>What is this </h2>
 
 A shell script to delete macOs  Launchpad icons
 
 Inspired by https://www.jamf.com/jamf-nation/discussions/21946/removing-icons-from-launchpad-in-sierra
 
-##Test info
+<h2>Test info </h2>
 
 Tested on masOS High Sierra 10.13.1 (17B1003)
 
-## How to use
+<h2>How to use </h2>
 
-###1.`download  lp.sh`  
+<h3>1. download  lp.sh  </h3> 
 
 downlad zip and decompress it
 
 ![](img/1.png)
 
-###2.`open bash`  
-###3.`cd to directory `  
+<h3>2. open bash  </h3>
+<h3>3. cd to directory  </h3>
 
 ![](img/2.png)
 
-###4.`sh lp.sh -s|--show`  
+<h3>4. sh lp.sh -s | --show  </h3>
 
 > need enter password  
 
@@ -40,7 +40,7 @@ It would display something look like this:
 
 ![](img/4.jpg)
 
-###4.`sh lp.sh -d|--delete 99,100,111` 
+<h3>4. sh lp.sh -d | --delete 99,100,111  </h3>
 
 This will delete icons 
 
@@ -48,9 +48,9 @@ use `,` to pass multiple id parameters
 
 ![](img/5.png)
 
-###5.`enter y to confirm`
+<h3>5. enter y to confirm </h3>
 
 Then Success
 
-#Thank you for use(´▽｀)
+<h1>Thank you for use(´▽｀) </h1>
 
